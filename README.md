@@ -1,2 +1,2 @@
-# MusicPlaylistMaker
- A Simple playlist maker using Java
+# Music Playlist Maker
+ A simple playlist maker using Java and I mean REALLY simple
